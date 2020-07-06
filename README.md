@@ -7,6 +7,8 @@ To install the library and requirements
 
 `pip install cython` or `conda install cython`
 
+same for `numpy`.
+
 The library is then installed from the root folder with  `pip install .`
 Next  step is to execute some code:
 
